@@ -4,9 +4,11 @@
 - Grant reoccurring (Every Monday, Every X of the month) pocketmoney to children.
 - Accept a tax declaration from the child.
 - Set tax declaration deadlines (In days).
-- The child can create Expenses for a tax delaration
-- The parent can deny a tax declaration if an expense is poorly explained
-- The parent can grant tax repayments per expense if the tax declaration is valid
+- The child can create Expenses for a tax delaration.
+- The parent can deny a tax declaration if an expense is poorly explained.
+- The parent can grant tax repayments per expense if the tax declaration is valid.
+- A parent can register at the site
+- A parent can create almost infinite
 
 ## Objects
 - Taxpayer (Child)
